@@ -53,6 +53,7 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
     <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
   </p>
+    <!--
   <h3> IDEs </h3>
   <p align="center">
     <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
@@ -61,6 +62,7 @@
     <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white">
     <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000?style=for-the-badge&logo=webstorm&logoColor=fff">
   </p>
+    -->
   <h3> Others </h3>
   <p align="center">
     <img alt="Microsoft Azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white">
@@ -74,13 +76,16 @@
 
 <div>
   <h2> Github Analitycs <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> </h2>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Waldron63&show_icons=true&theme=ocean_dark" />
-  </p>
-  <p>&nbsp;
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldron63&layout=compact&theme=ocean_dark" width="350"/>
-  </p>
-  <br clear="all">
+  <table width="100%" align="center">
+    <tr>
+      <td align="left">
+        <img src="https://github-readme-stats.vercel.app/api?username=Waldron63&show_icons=true&theme=ocean_dark" />
+      </td>
+      <td align="right">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldron63&layout=compact&theme=ocean_dark" width="350"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div>
