@@ -76,8 +76,6 @@
   <h2> Github Analitycs <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> </h2>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Waldron63&show_icons=true&theme=ocean_dark" />
-  </p>
-  <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldron63&layout=compact&theme=ocean_dark" width="350"/>
   </p>
   <br clear="all">
